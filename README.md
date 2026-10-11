@@ -1,4 +1,4 @@
-# bandlet dress 2
+# Bandelt Dress 2
 
 ## A Sum-of-Squares Decomposition for Quartet Covariance
 
