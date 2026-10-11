@@ -23,7 +23,7 @@ This standalone repository contains the PTRF-targeted v8 manuscript and its matc
 
 ## Provenance and version
 
-The six archival files above (excluding this README and `SHA256SUMS`) are byte-for-byte copies of the files previously published in the [original repository's `ptrf-v8` directory](https://github.com/huanglibo389/bandelt-dress-quartet-lean/tree/0b55dc8ee560b4af57bdd43b1f5f09496eacfe57/ptrf-v8). They were copied into this dedicated repository on 11 October 2026. The original repository is retained unchanged; its earlier v0.60 paper and formalization are not included here.
+The six archival files above (excluding this README and `SHA256SUMS`) are byte-for-byte copies of the files previously published in the [original repository's `ptrf-v8` directory at commit `0b55dc8`](https://github.com/huanglibo389/bandelt-dress-quartet-lean/tree/0b55dc8ee560b4af57bdd43b1f5f09496eacfe57/ptrf-v8). They were copied into this dedicated repository on 11 October 2026. On the same date, after byte-for-byte verification, the duplicate `ptrf-v8/` directory was removed from the original repository's current `main` branch. The original repository retains its earlier v0.60 paper and formalization unchanged, together with a migration notice; those v0.60 materials are not included here. Existing commits and version tags have not been rewritten, so the source snapshot linked above remains available.
 
 This repository has a new name and its own version history; it does not represent a new revision of the manuscript or the Lean sources. The historical delivery manifest is preserved, including its original date and audit statements.
 
